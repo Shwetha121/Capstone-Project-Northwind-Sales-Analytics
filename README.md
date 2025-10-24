@@ -66,7 +66,7 @@ By integrating **SQL**, **Excel**, and **Power BI**, Northwind Traders can turn 
 
 ### 📬 Author
 **Swetha Thallapelli**  
-*Data Analytics Enthusiast | Power BI | SQL | Excel*  
+*Data Analytics Enthusiast | Power BI | SQL |Python/Excel/Problem Solving*  
 
 ---
 
